@@ -55,5 +55,7 @@ The telescoping pattern is called an anti-pattern: how NOT to do things! The way
 Seasoned developers are expected to be well-versed in design patterns and applying them makes the code reusable and maintainable for future. Design patterns aren't limited to object orientated languages but also exist for other domains of Computer Science such as distributed systems, big data system or user interface.'
 
 
+https://medium.com/@modestofiguereo/design-patterns-2-the-builder-pattern-and-the-telescoping-constructor-anti-pattern-60a33de7522e
+
 
 
