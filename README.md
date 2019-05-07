@@ -57,5 +57,7 @@ Seasoned developers are expected to be well-versed in design patterns and applyi
 
 https://medium.com/@modestofiguereo/design-patterns-2-the-builder-pattern-and-the-telescoping-constructor-anti-pattern-60a33de7522e
 
+https://stackify.com/solid-design-open-closed-principle/
+
 
 
